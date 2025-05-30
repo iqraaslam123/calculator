@@ -41,7 +41,7 @@ body{
 .container input[type="button"]{
     height: 65px;
     width: calc(100%/ 4 - 5px);
-    color: #fff;
+    color: black;
     background-color: transparent;
     border-radius: 12px;
     margin-top: 10px;
@@ -53,6 +53,6 @@ body{
 .container input[type="button"]:hover{
     background-color: rgba(255, 255,255 , 0.1);
     font-size: 24px;
-    color: black;
+    color: #fff;
 
 }
